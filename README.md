@@ -7,11 +7,11 @@ Trident 2020 Single Ball Version
   Audio files are here: https://drive.google.com/file/d/1QbUE2tpKKzzAix_oZfrzt7Yp9v-Y6Cv5/view?usp=sharing   
 
   ## Tests, Audits, and Settings (button behind coin door)
-  1 - Lamp Test
-  2 - Display Test
-  3 - Solenoid Test
-  4 - Switch Test
-  5 - Sound Test  
+  1 - Lamp Test  
+  2 - Display Test  
+  3 - Solenoid Test  
+  4 - Switch Test  
+  5 - Sound Test    
     
   1 - Award Score 1  
   2 - Award Score 2  
